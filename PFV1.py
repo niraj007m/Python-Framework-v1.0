@@ -1,14 +1,14 @@
 ###############################################################
-### Python Framework for VAPT v 1.0			 	    		###
-### 														###
-### Designed by Niraj M. 			     					###
-### niraj007m[at]gmail[dot]com        						###
+### Python Framework for VAPT v 1.0			    ###
+### 							    ###
+### Designed by Niraj M. 			     	    ###
+### niraj007m[at]gmail[dot]com        			    ###
 ### This work is licensed under the Creative Commons        ###
 ### Attribution-ShareAlike 3.0 Unported License.            ###
 ### To view a copy of this license, visit                   ###
 ### http://creativecommons.org/licenses/by-sa/3.0/ or send a###
 ### letter to Creative Commons, PO Box 1866, Mountain View, ###
-### CA 94042, USA. 											###
+### CA 94042, USA. 					    ###
 ###############################################################
 
 from Tkinter import *
@@ -167,14 +167,14 @@ def index0():
 
 if __name__ == "__main__": main()
 ###############################################################
-### Python Framework for VAPT v 1.0			 	    		###
-### 														###
-### Designed by Niraj M. 			     					###
-### niraj007m[at]gmail[dot]com        						###
+### Python Framework for VAPT v 1.0			    ###
+### 							    ###
+### Designed by Niraj M. 			     	    ###
+### niraj007m[at]gmail[dot]com        			    ###
 ### This work is licensed under the Creative Commons        ###
 ### Attribution-ShareAlike 3.0 Unported License.            ###
 ### To view a copy of this license, visit                   ###
 ### http://creativecommons.org/licenses/by-sa/3.0/ or send a###
 ### letter to Creative Commons, PO Box 1866, Mountain View, ###
-### CA 94042, USA. 											###
+### CA 94042, USA. 					    ###
 ###############################################################
