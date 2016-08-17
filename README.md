@@ -17,6 +17,7 @@ Enjoy ! Cheers \m/
 
 Contact Details:
 https://about.me/niraj.mohite 
+https://about.me/pratik.jadhav
 
 https://infosecplatform.wordpress.com/
 
